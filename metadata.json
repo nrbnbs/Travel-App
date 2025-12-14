@@ -1,0 +1,5 @@
+{
+  "name": "Bose Travel Architect",
+  "description": "An AI-powered travel planner that generates dynamic, budget-aware itineraries using Google Gemini.",
+  "requestFramePermissions": []
+}
